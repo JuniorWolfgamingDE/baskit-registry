@@ -1,0 +1,12 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "source": "https://raw.githubusercontent.com/JuniorWolfgamingDE/baskit-registry/refs/heads/main/packages/greet/releases/greet-1.0.0.tar.gz",
+  "checksum": "sha256:23484631dc1181191fa487bbb9b2aaff452f2c045e58a6607e0560fbe719eda0",
+  "entrypoint": "greet.sh",
+  "expose": true,
+  "deps": ["bash"],
+  "description": "Demo script for Baskit",
+  "author": "JuniorWMG",
+  "license": "MIT"
+}
